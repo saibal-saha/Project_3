@@ -8,6 +8,7 @@ The initial finings showed very strong correlation among the various sectors. Th
 
 We then used Fibonacci and Stochastic models along with Machine Learning Model SVM, in order to see how each of the model performs. For Fibonacci we used 6 different combinations in order to find the combinations which works best in terms of returns.
 
+- 1-day closing prices
 - 1-day close with 3-Day moving average
 - 1-day close with Mid-point values
 - 60-minute closing prices
@@ -150,6 +151,8 @@ Finally, the cumulative returns for both the actual_returns and the trading_algo
 The (1 + predictions_df[["actual_returns", "trading_algorithm_returns"]]).cumprod().plot() line of code adds 1 to both columns and takes the cumulative product using the cumprod() function. The resulting DataFrame is then plotted to show the cumulative returns of the actual returns and trading algorithm returns.
 
 Used the same process for:
+
+- 1-day closing prices
 
 - 1-day close with 3-Day moving average
 
