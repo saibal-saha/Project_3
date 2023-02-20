@@ -181,9 +181,9 @@ The code also calculates the annualized volatility of the option returns for XLK
 
 The strategy is a dual moving average crossover , calculates various portfolio metrics, and visualizes the portfolio value. It also calculates various other technical indicators for the XLK stock.
 
-![XLK Signals](/Stoc-Images/XLB SVM.png)
+![XLK Signals](/StocImages/XLKSignals.png)
 
-![XLK Equity]()
+![XLK Equity]((/StocImages/XLKEquity.png))
 
 The code also calculates the Y value for each row in the dataframe. The Y value is based on the mid-price of the high and low price of the stock. If the Y value is greater than 0, it is set to 1, otherwise, it is set to 0. The code also calculates the MA14Slope and ZScore14 values for the stock.
 
@@ -229,6 +229,6 @@ Then calculates the trading_algorithm_returns which are the product of the actua
 Finally, it calculates and plots the cumulative returns for both actual_returns and trading_algorithm_returns using the cumprod() function. The resulting plot shows the cumulative returns of the trading algorithm compared to the actual returns for the trading dataset.
 
 
-![XLK SVM]()
+![XLK SVM](/StocImages/XLKSVM.png)
 
 
