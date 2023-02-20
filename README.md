@@ -181,7 +181,7 @@ The code also calculates the annualized volatility of the option returns for XLK
 
 The strategy is a dual moving average crossover , calculates various portfolio metrics, and visualizes the portfolio value. It also calculates various other technical indicators for the XLK stock.
 
-![XLK Signals]()
+![XLK Signals](/Stoc-Images/XLK Signals.png)
 
 ![XLK Equity]()
 
