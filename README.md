@@ -3,7 +3,7 @@
 
 ## Using Fibonacci Ratios as an Indicator:
 
-### Import Libraries:
+## Import Libraries:
 
 Used various libraries to retrieve and analyze financial data from the Alpaca API and Yahoo Finance. It applies technical indicators and calculations to the data and creates new columns in a Pandas DataFrame to represent the results of the analysis. Here's a breakdown:
 
@@ -150,8 +150,160 @@ Used the same process for:
 Notebook is attached for your reference.
 
 
+## Ddollar Images:
 
-## Using Stochastic as an Indicator:
+![Dollar 1 Day Close](/Fiboimages/Dollar1DayClose.png)
+
+![Dollar 1 Day 3 MA](/Fiboimages/Dollar1Day3MA.png)
+
+![Dollar 1 Day Mid](/Fiboimages/Dollar1DayMid.png)
+
+![Dollar  60 Min Close](/Fiboimages/Dollar60MinClose.png)
+
+![Dollar 60 Min 3 MA](/Fiboimages/Dollar60Min3MA.png)
+
+![Dollar 60 Min Mid](/Fiboimages/Dollar60MinMid.png)
+
+
+
+## XLB Images:
+
+![XLB 1 Day Close](/Fiboimages/XLB1DayClose.png)
+
+![XLB 1 Day 3 MA](/Fiboimages/XLB1Day3MA.png)
+
+![XLB 1 Day Mid](/Fiboimages/XLB1DayMid.png)
+
+![XLB  60 Min Close](/Fiboimages/XLB60MinClose.png)
+
+![XLB 60 Min 3 MA](/Fiboimages/XLB60Min3MA.png)
+
+![XLB 60 Min Mid](/Fiboimages/XLB60MinMid.png)
+
+
+## XLE Images:
+
+![XLE 1 Day Close](/Fiboimages/XLE1DayClose.png)
+
+![XLE 1 Day 3 MA](/Fiboimages/XLE1Day3MA.png)
+
+![XLE 1 Day Mid](/Fiboimages/XLE1DayMid.png)
+
+![XLE  60 Min Close](/Fiboimages/XLE60MinClose.png)
+
+![XLE 60 Min 3 MA](/Fiboimages/XLE60Min3MA.png)
+
+![XLE 60 Min Mid](/Fiboimages/XLE60MinMid.png)
+
+
+## XLF Images:
+
+![XLF 1 Day Close](/Fiboimages/XLF1DayClose.png)
+
+![XLF 1 Day 3 MA](/Fiboimages/XLF1Day3MA.png)
+
+![XLF 1 Day Mid](/Fiboimages/XLF1DayMid.png)
+
+![XLF  60 Min Close](/Fiboimages/XLF60MinClose.png)
+
+![XLF 60 Min 3 MA](/Fiboimages/XLF60Min3MA.png)
+
+![XLF 60 Min Mid](/Fiboimages/XLF60MinMid.png)
+
+
+## XLI Images:
+
+![XLI 1 Day Close](/Fiboimages/XLI1DayClose.png)
+
+![XLI 1 Day 3 MA](/Fiboimages/XLI1Day3MA.png)
+
+![XLI 1 Day Mid](/Fiboimages/XLI1DayMid.png)
+
+![XLI  60 Min Close](/Fiboimages/XLI60MinClose.png)
+
+![XLI 60 Min 3 MA](/Fiboimages/XLI60Min3MA.png)
+
+![XLI 60 Min Mid](/Fiboimages/XLI60MinMid.png)
+
+
+## XLK Images:
+
+![XLK 1 Day Close](/Fiboimages/XLK1DayClose.png)
+
+![XLK 1 Day 3 MA](/Fiboimages/XLK1Day3MA.png)
+
+![XLK 1 Day Mid](/Fiboimages/XLK1DayMid.png)
+
+![XLK  60 Min Close](/Fiboimages/XLK60MinClose.png)
+
+![XLK 60 Min 3 MA](/Fiboimages/XLK60Min3MA.png)
+
+![XLK 60 Min Mid](/Fiboimages/XLK60MinMid.png)
+
+
+## XLP Images:
+
+![XLP 1 Day Close](/Fiboimages/XLP1DayClose.png)
+
+![XLP 1 Day 3 MA](/Fiboimages/XLP1Day3MA.png)
+
+![XLP 1 Day Mid](/Fiboimages/XLP1DayMid.png)
+
+![XLP  60 Min Close](/Fiboimages/XLP60MinClose.png)
+
+![XLP 60 Min 3 MA](/Fiboimages/XLP60Min3MA.png)
+
+![XLP 60 Min Mid](/Fiboimages/XLP60MinMid.png)
+
+
+## XLU Images:
+
+![XLU 1 Day Close](/Fiboimages/XLU1DayClose.png)
+
+![XLU 1 Day 3 MA](/Fiboimages/XLU1Day3MA.png)
+
+![XLU 1 Day Mid](/Fiboimages/XLU1DayMid.png)
+
+![XLU  60 Min Close](/Fiboimages/XLU60MinClose.png)
+
+![XLU 60 Min 3 MA](/Fiboimages/XLU60Min3MA.png)
+
+![XLU 60 Min Mid](/Fiboimages/XLU60MinMid.png)
+
+
+## XLV Images:
+
+![XLV 1 Day Close](/Fiboimages/XLV1DayClose.png)
+
+![XLV 1 Day 3 MA](/Fiboimages/XLV1Day3MA.png)
+
+![XLV 1 Day Mid](/Fiboimages/XLV1DayMid.png)
+
+![XLV  60 Min Close](/Fiboimages/XLV60MinClose.png)
+
+![XLV 60 Min 3 MA](/Fiboimages/XLV60Min3MA.png)
+
+![XLV 60 Min Mid](/Fiboimages/XLV60MinMid.png)
+
+
+## XLY Images:
+
+![XLY 1 Day Close](/Fiboimages/XLY1DayClose.png)
+
+![XLY 1 Day 3 MA](/Fiboimages/XLY1Day3MA.png)
+
+![XLY 1 Day Mid](/Fiboimages/XLY1DayMid.png)
+
+![XLY  60 Min Close](/Fiboimages/XLY60MinClose.png)
+
+![XLY 60 Min 3 MA](/Fiboimages/XLY60Min3MA.png)
+
+![XLY 60 Min Mid](/Fiboimages/XLY60MinMid.png)
+
+
+
+
+# Using Stochastic as an Indicator:
 
 
 Imports necessary libraries such as finta, pandas, yfinance, hvplot.pandas, talib, sklearn, seaborn, matplotlib, and others.I
@@ -232,7 +384,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLK SVM](/StocImages/XLKSVM.png)
 
 
-### Dollar Images:
+## Dollar Images:
 
 ![Dollar Signals](/StocImages/DOLLARSignal.png)
 
@@ -240,7 +392,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 
 ![Dollar SVM](/StocImages/DOLLARSVM.png)
 
-### XLB Images:
+## XLB Images:
 
 ![XLB Signals](/StocImages/XLB Signal.png)
 
@@ -248,7 +400,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 
 ![XLB SVM](/StocImages/XLBSVM.png)
 
-### XLE Images:
+## XLE Images:
 
 ![XLE Signals](/StocImages/XLESignal.png)
 
@@ -256,16 +408,16 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 
 ![XLE SVM](/StocImages/XLESVM.png)
 
-### XLF Images:
+## XLF Images:
 
-![XLF Signals](/StocImages/XLFSignal.png)
+![XLF Signals](/StocImages/XLF Signal.png)
 
 ![XLF Equity](/StocImages/XLFEquity.png)
 
 ![XLF SVM](/StocImages/XLFSVM.png)
 
 
-### XLI Images:
+## XLI Images:
 
 ![XLI Signals](/StocImages/XLISignal.png)
 
@@ -274,7 +426,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLI SVM](/StocImages/XLISVM.png)
 
 
-### XLP Images:
+## XLP Images:
 
 ![XLP Signals](/StocImages/XLPSignal.png)
 
@@ -283,7 +435,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLP SVM](/StocImages/XLPSVM.png)
 
 
-### XLU Images:
+## XLU Images:
 
 ![XLU Signals](/StocImages/XLUSignal.png)
 
@@ -292,7 +444,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLU SVM](/StocImages/XLUSVM.png)
 
 
-### XLV Images:
+## XLV Images:
 
 ![XLV Signals](/StocImages/XLVSignal.png)
 
@@ -301,7 +453,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLV SVM](/StocImages/XLVSVM.png)
 
 
-### XLY Images:
+## XLY Images:
 
 ![XLY Signals](/StocImages/XLYSignal.png)
 
