@@ -6,7 +6,7 @@ In this project we wanted to see the correlation between the USD and all the oth
 
 The initial finings showed very strong correlation among the various sectors. This is shown in details in the file S&P_Sectors_Correlation.ipnyp.
 
-We then used Fibonacci and Stochastic models along with Machine Learning Model SVM, in order to see how each of the model performs.
+We then used Fibonacci Ratios and Stochastic models as indicators along with Machine Learning Model SVM, in order to see how each of the model performs.
 
 
 ## Using Fibonacci Ratios as an Indicator:
