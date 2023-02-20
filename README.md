@@ -232,10 +232,82 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLK SVM](/StocImages/XLKSVM.png)
 
 
-## Other Images:
+### Dollar Images:
+
 ![Dollar Signals](/StocImages/DOLLARSignal.png)
 
 ![Dollar Equity](/StocImages/DOLLAREquity.png)
 
 ![Dollar SVM](/StocImages/DOLLARSVM.png)
+
+### XLB Images:
+
+![XLB Signals](/StocImages/XLB Signal.png)
+
+![XLB Equity](/StocImages/XLBEquity.png)
+
+![XLB SVM](/StocImages/XLBSVM.png)
+
+### XLE Images:
+
+![XLE Signals](/StocImages/XLESignal.png)
+
+![XLE Equity](/StocImages/XLEEquity.png)
+
+![XLE SVM](/StocImages/XLESVM.png)
+
+### XLF Images:
+
+![XLF Signals](/StocImages/XLFSignal.png)
+
+![XLF Equity](/StocImages/XLFEquity.png)
+
+![XLF SVM](/StocImages/XLFSVM.png)
+
+
+### XLI Images:
+
+![XLI Signals](/StocImages/XLISignal.png)
+
+![XLI Equity](/StocImages/XLIEquity.png)
+
+![XLI SVM](/StocImages/XLISVM.png)
+
+
+### XLP Images:
+
+![XLP Signals](/StocImages/XLPSignal.png)
+
+![XLP Equity](/StocImages/XLPEquity.png)
+
+![XLP SVM](/StocImages/XLPSVM.png)
+
+
+### XLU Images:
+
+![XLU Signals](/StocImages/XLUSignal.png)
+
+![XLU Equity](/StocImages/XLUEquity.png)
+
+![XLU SVM](/StocImages/XLUSVM.png)
+
+
+### XLV Images:
+
+![XLV Signals](/StocImages/XLVSignal.png)
+
+![XLV Equity](/StocImages/XLVEquity.png)
+
+![XLV SVM](/StocImages/XLVSVM.png)
+
+
+### XLY Images:
+
+![XLY Signals](/StocImages/XLYSignal.png)
+
+![XLY Equity](/StocImages/XLYEquity.png)
+
+![XLY SVM](/StocImages/XLYSVM.png)
+
+
 
