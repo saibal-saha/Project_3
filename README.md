@@ -233,7 +233,7 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 
 
 ## Other Images:
-[Dollar Signals](/StocImages/DOLLARSignal.png)
+![Dollar Signals](/StocImages/DOLLARSignal.png)
 
 ![Dollar Equity](/StocImages/DOLLAREquity.png)
 
