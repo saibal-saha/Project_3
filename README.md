@@ -1,13 +1,5 @@
 # S&P 500 Sectors Vs USD
 
-## Introduction
-
-In this project we wanted to see the correlation between the USD and all the other sectors within S&P 500. There were 11 sectors within S&P 500, but we dropped 2 of the sectors due to insufficient data, ‘XLC’ & ‘XLRE’.
-
-The initial finings showed very strong correlation among the various sectors. This is shown in details in the file S&P_Sectors_Correlation.ipnyp.
-
-We then used Fibonacci Ratios and Stochastic models as indicators along with Machine Learning Model SVM, in order to see how each of the model performs.
-
 
 ## Using Fibonacci Ratios as an Indicator:
 
@@ -246,10 +238,6 @@ Notebook is attached for your reference.
 
 ![XLF 1 Day Close](/Fiboimages/XLF1DayClose.png)
 
-### 1 Day 3 MA:
-
-![XLF 1 Day 3 MA](/Fiboimages/XLF1Day3MA.png)
-
 ### 1 Day Mid:
 
 ![XLF 1 Day Mid](/Fiboimages/XLF1DayMid.png)
@@ -287,7 +275,7 @@ Notebook is attached for your reference.
 
 ### 60 Min 3 MA:
 
-![XLI 60 Min 3 MA](/Fiboimages/XLI60Min3MA.png)
+![XLI 60 Min 3 MA](/Fiboimages/XLI60MinMA.png)
 
 ### 60 Min Mid:
 
