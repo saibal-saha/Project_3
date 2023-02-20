@@ -594,5 +594,12 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 
 ![XLY SVM](/StocImages/XLYSVM.png)
 
+## Conclusion
+
+As we can see the Fibonacci Ratios yield much better results than the stochastic model.  Out of the 6 different variations, only two of them yields high levels of meaningful results. The 1 day closing prices with 3 days moving average and 1 day closing prices with daily mid values. 
+
+Although these two combinations yield very high returns across all the sectors, our initial and eventual further investigation doesn't show any kind of look ahead bias showing that these combinations using the Fibonacci ratios yields really good returns over time.
+
+We will carry out further investigations beyond the scope of this project, in order to see if these results hold true.
 
 
