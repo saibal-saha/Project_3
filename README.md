@@ -137,15 +137,15 @@ The (1 + predictions_df[["actual_returns", "trading_algorithm_returns"]]).cumpro
 
 Used the same process for:
 
-1-day close with 3-Day moving average
+- 1-day close with 3-Day moving average
 
-1-day close with Mid-point values
+- 1-day close with Mid-point values
 
-60-minute closing prices
+- 60-minute closing prices
 
-60-minute close with 3-Day moving average
+- 60-minute close with 3-Day moving average
 
-60-minute close with Mid-point values
+- 60-minute close with Mid-point values
 
 Notebook is attached for your reference.
 
