@@ -184,7 +184,7 @@ Notebook is attached for your reference.
 
 ![XLB 1 Day Close](/Fiboimages/XLB1DayClose.png)
 
-### ### 1 Day 3 MA:
+### 1 Day 3 MA:
 
 ![XLB 1 Day 3 MA](/Fiboimages/XLB1Day3MA.png)
 
