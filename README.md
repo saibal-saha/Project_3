@@ -161,7 +161,7 @@ Then, the code uses hvplot library to plot the closing prices of all the ETFs ag
 
 The purpose of the code is to visualize the historical closing prices of S&P 500 sector ETFs and to analyze the trends and patterns in the ETFs. The code can be useful for investment purposes, for instance, by identifying which sector ETFs perform better than others over time.
 
-![Sector Etfs]()
+![Sector Etfs](/StocImages/sectorEtfs.png)
 
 
 ### Calculate Stochastic Indicator for S&P 500 ETF Ticker XLK:
