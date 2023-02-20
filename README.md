@@ -150,17 +150,29 @@ Used the same process for:
 Notebook is attached for your reference.
 
 
-## Ddollar Images:
+## Dollar Images:
+
+### 1 Day Close
 
 ![Dollar 1 Day Close](/Fiboimages/Dollar1DayClose.png)
 
+### 1 Day 3 MA:
+
 ![Dollar 1 Day 3 MA](/Fiboimages/Dollar1Day3MA.png)
+
+### 1 Day Mid:
 
 ![Dollar 1 Day Mid](/Fiboimages/Dollar1DayMid.png)
 
+### 60 Min Close:
+
 ![Dollar  60 Min Close](/Fiboimages/Dollar60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![Dollar 60 Min 3 MA](/Fiboimages/Dollar60Min3MA.png)
+
+### 60 min Mid:
 
 ![Dollar 60 Min Mid](/Fiboimages/Dollar60MinMid.png)
 
@@ -168,135 +180,243 @@ Notebook is attached for your reference.
 
 ## XLB Images:
 
+### 1 Day Close:
+
 ![XLB 1 Day Close](/Fiboimages/XLB1DayClose.png)
+
+### ### 1 Day 3 MA:
 
 ![XLB 1 Day 3 MA](/Fiboimages/XLB1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLB 1 Day Mid](/Fiboimages/XLB1DayMid.png)
+
+### 60 Min Close:
 
 ![XLB  60 Min Close](/Fiboimages/XLB60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLB 60 Min 3 MA](/Fiboimages/XLB60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLB 60 Min Mid](/Fiboimages/XLB60MinMid.png)
 
 
 ## XLE Images:
 
+### 1 Day Close:
+
 ![XLE 1 Day Close](/Fiboimages/XLE1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLE 1 Day 3 MA](/Fiboimages/XLE1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLE 1 Day Mid](/Fiboimages/XLE1DayMid.png)
+
+### 60 Min Close:
 
 ![XLE  60 Min Close](/Fiboimages/XLE60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLE 60 Min 3 MA](/Fiboimages/XLE60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLE 60 Min Mid](/Fiboimages/XLE60MinMid.png)
 
 
 ## XLF Images:
 
+### 1 Day Close:
+
 ![XLF 1 Day Close](/Fiboimages/XLF1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLF 1 Day 3 MA](/Fiboimages/XLF1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLF 1 Day Mid](/Fiboimages/XLF1DayMid.png)
+
+### 60 Min Close:
 
 ![XLF  60 Min Close](/Fiboimages/XLF60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLF 60 Min 3 MA](/Fiboimages/XLF60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLF 60 Min Mid](/Fiboimages/XLF60MinMid.png)
 
 
 ## XLI Images:
 
+### 1 Day Close:
+
 ![XLI 1 Day Close](/Fiboimages/XLI1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLI 1 Day 3 MA](/Fiboimages/XLI1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLI 1 Day Mid](/Fiboimages/XLI1DayMid.png)
+
+### 60 Min Close:
 
 ![XLI  60 Min Close](/Fiboimages/XLI60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLI 60 Min 3 MA](/Fiboimages/XLI60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLI 60 Min Mid](/Fiboimages/XLI60MinMid.png)
 
 
 ## XLK Images:
 
+### 1 Day Close:
+
 ![XLK 1 Day Close](/Fiboimages/XLK1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLK 1 Day 3 MA](/Fiboimages/XLK1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLK 1 Day Mid](/Fiboimages/XLK1DayMid.png)
+
+### 60 Min Close:
 
 ![XLK  60 Min Close](/Fiboimages/XLK60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLK 60 Min 3 MA](/Fiboimages/XLK60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLK 60 Min Mid](/Fiboimages/XLK60MinMid.png)
 
 
 ## XLP Images:
 
+### 1 Day Close:
+
 ![XLP 1 Day Close](/Fiboimages/XLP1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLP 1 Day 3 MA](/Fiboimages/XLP1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLP 1 Day Mid](/Fiboimages/XLP1DayMid.png)
+
+### 60 Min Close:
 
 ![XLP  60 Min Close](/Fiboimages/XLP60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLP 60 Min 3 MA](/Fiboimages/XLP60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLP 60 Min Mid](/Fiboimages/XLP60MinMid.png)
 
 
 ## XLU Images:
 
+### 1 Day Close:
+
 ![XLU 1 Day Close](/Fiboimages/XLU1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLU 1 Day 3 MA](/Fiboimages/XLU1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLU 1 Day Mid](/Fiboimages/XLU1DayMid.png)
+
+### 60 Min Close:
 
 ![XLU  60 Min Close](/Fiboimages/XLU60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLU 60 Min 3 MA](/Fiboimages/XLU60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLU 60 Min Mid](/Fiboimages/XLU60MinMid.png)
 
 
 ## XLV Images:
 
+### 1 Day Close:
+
 ![XLV 1 Day Close](/Fiboimages/XLV1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLV 1 Day 3 MA](/Fiboimages/XLV1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLV 1 Day Mid](/Fiboimages/XLV1DayMid.png)
+
+### 60 Min Close:
 
 ![XLV  60 Min Close](/Fiboimages/XLV60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLV 60 Min 3 MA](/Fiboimages/XLV60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLV 60 Min Mid](/Fiboimages/XLV60MinMid.png)
 
 
 ## XLY Images:
 
+### 1 Day Close:
+
 ![XLY 1 Day Close](/Fiboimages/XLY1DayClose.png)
+
+### 1 Day 3 MA:
 
 ![XLY 1 Day 3 MA](/Fiboimages/XLY1Day3MA.png)
 
+### 1 Day Mid:
+
 ![XLY 1 Day Mid](/Fiboimages/XLY1DayMid.png)
+
+### 60 Min Close:
 
 ![XLY  60 Min Close](/Fiboimages/XLY60MinClose.png)
 
+### 60 Min 3 MA:
+
 ![XLY 60 Min 3 MA](/Fiboimages/XLY60Min3MA.png)
+
+### 60 Min Mid:
 
 ![XLY 60 Min Mid](/Fiboimages/XLY60MinMid.png)
 
