@@ -232,3 +232,10 @@ Finally, it calculates and plots the cumulative returns for both actual_returns 
 ![XLK SVM](/StocImages/XLKSVM.png)
 
 
+## Other Images:
+[Dollar Signals](/StocImages/DOLLARSignal.png)
+
+![Dollar Equity](/StocImages/DOLLAREquity.png)
+
+![Dollar SVM](/StocImages/DOLLARSVM.png)
+
